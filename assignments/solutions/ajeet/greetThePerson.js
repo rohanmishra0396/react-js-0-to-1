@@ -1,0 +1,3 @@
+function greetThePerson() {
+    // todo
+}
