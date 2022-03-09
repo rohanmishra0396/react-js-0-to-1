@@ -30,8 +30,11 @@ execute the code on users' devices.
 ---
 
 https://en.wikipedia.org/wiki/Java_applet
+
 https://en.wikipedia.org/wiki/JavaScript
+
 https://www.ecosia.org/search?q=javascript%20array%20foreach
+
 https://en.wikipedia.org/wiki/Brendan_Eich
 
 ---
