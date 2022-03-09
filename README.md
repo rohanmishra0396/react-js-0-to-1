@@ -1,5 +1,9 @@
 ##  React and Javascript Tutorial 
 
+## Where can I find zoom recordings?
+
+Check this [google drive](https://drive.google.com/drive/folders/1zehG8M37UQGPKnTFoaMPXJ2ZZ8R2cUqo?usp=sharing).
+
 ## How to submit the assignments?
 
 Follow these steps:
